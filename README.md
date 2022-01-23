@@ -12,9 +12,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-<img src="https://img.shields.io/badge/HTML-orange"/>
-<img src="https://img.shields.io/badge/CSS-yellow"/>
-
+![license](https://img.shields.io/badge/license-MIT-red)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -26,6 +24,9 @@
   -->
 
 <h2 align="center">About Me - prework</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML-orange"/>
+    <img src="https://img.shields.io/badge/CSS-yellow"/>
   <p align="center">
     This website is a static HTML website using semantic tags and minimal CSS.
     <br />
